@@ -1,0 +1,16 @@
+{
+  "name": "viva",
+  "version": "1.0.0",
+  "description": "Viva: acompanhamento de hábitos, hidratação, sono, exercícios e bem-estar.",
+  "private": true,
+  "scripts": {
+    "start": "python3 -m http.server 8080",
+    "test": "node tests/app.test.js && node tests/audit.test.js && node tests/theme.test.js && node tests/db.test.mjs",
+    "test:browser": "node tests/browser/visual.mjs && node tests/browser/interaction.mjs",
+    "docs": "node scripts/gerar-docs-temas.js"
+  },
+  "devDependencies": {
+    "@electric-sql/pglite": "0.5.8",
+    "jsdom": "30.1.2"
+  }
+}
