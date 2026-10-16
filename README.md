@@ -124,3 +124,4 @@ Os testes **não** substituem um teste com o seu projeto Supabase real nem em ce
 - Se uma conta for apagada, os arquivos de foto dela permanecem no storage; vale uma limpeza periódica.
 - No envio de e-mails (confirmação e recuperação de senha), o Supabase gratuito tem limite de envios por hora. Para uso real, configure um servidor SMTP próprio.
 - Os gráficos de evolução usam até 3 anos de histórico.
+*//Blbc@627623
