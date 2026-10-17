@@ -8,6 +8,6 @@
 // A chave publishable/anon é pública por natureza: quem protege os dados é o Row Level Security do banco.
 // NUNCA coloque aqui a chave "secret" (sb_secret_...) nem a "service_role".
 window.VIVA_CONFIG = {
-  url: 'https://babiluco.github.io/VIVA/',
+  url: 'https://wpalrlaypnmsiedesyok.supabase.co',
   key: 'sb_publishable_CcmaPHZTvhtu79oyQDd0_A_JucaQSv1'
 };
