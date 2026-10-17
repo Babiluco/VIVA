@@ -9,5 +9,5 @@
 // NUNCA coloque aqui a chave "secret" (sb_secret_...) nem a "service_role".
 window.VIVA_CONFIG = {
   url: 'https://babiluco.github.io/VIVA/',
-  key: 'https://babiluco.github.io/VIVA/'
+  key: 'sb_publishable_CcmaPHZTvhtu79oyQDd0_A_JucaQSv1'
 };
